@@ -1,6 +1,6 @@
 # Define the variable board below.
 
-board = (["","","","","","","","","",])
+board = ["","","","","","","","","",]
 board [1]
 board [2]
 board [3]
